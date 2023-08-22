@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kristina Riemer",
+    "section": "",
+    "text": "My name is Kristina Riemer\nI teach data science"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Riemer, K. and Scott, E. 2023. How to make websites with Quarto."
+  },
+  {
+    "objectID": "publications.html#list-of-my-recent-publications",
+    "href": "publications.html#list-of-my-recent-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Riemer, K. and Scott, E. 2023. How to make websites with Quarto."
+  }
+]

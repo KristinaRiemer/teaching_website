@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 925c27b9-144c-4a87-a9d4-13b517b04f1b
+      url: 'https://kristinariemer.quarto.pub/teaching_website'

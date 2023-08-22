@@ -1,0 +1,7 @@
+---
+title: "Publications"
+---
+
+## List of my recent publications
+
+Riemer, K. and Scott, E. 2023. How to make websites with Quarto.
